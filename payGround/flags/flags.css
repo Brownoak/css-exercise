@@ -160,3 +160,42 @@ body{
 
 
 }
+
+/*--*/
+
+#uae{
+    display: inline-block;
+    padding-bottom: 50px;
+}
+
+.u_green{
+    width: 400px;
+    height: 100px;
+    background-color: green;
+
+}
+
+.u_white{
+    width: 400px;
+    height: 100px;
+    background-color:white;
+
+}
+
+.u_black{
+    width: 400px;
+    height: 100px;
+    background-color: black;
+
+
+
+}
+.u_red{
+    height: 300px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    bottom: 300px;
+}
+
+  

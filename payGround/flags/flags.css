@@ -22,7 +22,7 @@ body{
 }
 
 .e_red{
-    width: 700px;
+    width: 400px;
     height: 100px;
     background-color: red;
 
@@ -34,6 +34,7 @@ body{
 
 .sa_box{
     height: 250px;
+    width: 400px;
  }
  .south-red{
      padding: 30px;

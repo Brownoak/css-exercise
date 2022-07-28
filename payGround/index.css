@@ -79,3 +79,90 @@
     
 
 }
+
+/*-----*/
+
+.main_div3{
+    text-align: center;
+    padding: 0vw 20vw;
+}
+.main_div3 h2{
+    font-size: 3.2vw;
+    margin: 6vh 0vh 2vh 0vh;
+    font-weight: 600;
+}
+.main_div3 p{
+    font-size: 1.5vw;
+}
+.symbol{
+    height: 3.7vh;
+    margin-bottom: 1.7vw;
+}
+
+.card{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5625vw 3vw 5vw 3vw;
+    font-size: 1.3vw;
+
+}
+.card1{
+    padding: 1em;
+    background-color: #fdf9f1;
+    margin: 1em;
+
+}
+.card1 p{
+    margin-bottom: 2.8vw;
+}
+
+.card2{
+    padding: 1em;
+    background-color: #fdf9f1;
+    margin: 1em;
+}
+
+.card2 p{
+    margin-bottom: 2.8vw;
+}
+.card3{
+    padding: 5vh;
+    background-color: #fdf9f1;
+    margin: 1em;
+}
+.card3 p{
+    margin-bottom: 2.8vw;
+}
+
+.comment{
+    font-size:1.1vw;
+    font-weight: 700;
+}
+.whyPay{
+    display: flex;
+    justify-content: space-between;
+    padding: 4vw 3vw 4vw 3vw;
+
+}
+.whyPay h3{
+    font-size: 1.5625rem;
+    line-height: 1.28;
+    font-weight: 700;
+}
+
+.obj{
+    width: 9.375vw;
+    height: 17.48633879781421vh;
+}
+.why1{
+    padding: 2em;
+}
+
+.why2{
+    padding: 2em;
+}
+.why3{
+    padding: 2em;
+
+}
+

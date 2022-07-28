@@ -37,3 +37,45 @@
     width: 50vw;
     padding: 0vw 2.4vw;
 }
+
+/* --------- */
+
+.main_div2{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 0vw 5vw 5vw 5vw ;
+}
+
+.div2_img{
+    grid-column-start: span 1;
+    height: 100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+.div2_div{
+    grid-column-start: span 1;
+    margin-top: 20vh;
+
+
+}
+.main_div2 h2{
+    font-size: 3.2vw;
+}
+.main_div2 p{
+    font-size: 1.5vw;
+    padding-top: 5vh;
+}
+.store{
+    display: flex;
+    padding-top: 5vh;
+}
+.store img{
+    width: 13.828125vw;
+    height: 9.47vh;
+    padding-right: 2vw;
+    
+
+}

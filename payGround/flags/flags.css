@@ -112,3 +112,51 @@ body{
  }
  
 /*---*/ 
+
+
+
+.costarica{
+    display: inline-flex;
+}
+.costa_div{
+    display: inline-block;
+}
+
+.c_blue1{
+    width: 400px;
+    height: 50px;
+    background-color:blue;
+
+}
+
+.c_white1{
+    width: 400px;
+    height: 50px;
+    background-color:white;
+
+}
+
+.c_red{
+    width: 400px;
+    height: 100px;
+    background-color: red;
+
+
+
+}
+.c_white2{
+    width: 400px;
+    height: 50px;
+    background-color:white;
+
+
+
+}
+.c_blue2{
+    width: 400px;
+    height: 50px;
+    background-color:blue;
+
+
+
+}

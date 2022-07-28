@@ -216,3 +216,94 @@
     color: #303178;;
 }
 
+/*---*/
+
+
+.main_div5{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 4vw 2vw ;
+}
+.div5_div{
+    grid-column-start: span 1;
+    margin-top: 20vh;
+    padding: 0vw 2vw ;
+
+}
+
+.main_div5 h2{
+    margin: 2vh 0vh;
+    font-size:3vw ;
+    font-weight: 500;
+}
+.div5_div a{
+    text-decoration: none;
+    border: 1px solid #000;
+    border-radius: 0.5em;
+    padding: 2vh;
+    font-size: 1.6vw;
+    font-weight: 500;
+}
+.div5_div a:link{
+    background-color: #303178;
+    color: #fff;
+}
+.div5_div a:visited{
+    border-color: #303178;
+    background-color: #303178;
+    font-weight: 600;
+    color: #fff;
+
+}
+.div5_div a:focus{
+    border-color: #303178;
+    background-color: #303178;
+    color: #fff;
+}
+.div5_div a:hover{
+    background-color: #32373c;
+    text-decoration: none;
+}
+
+.main_div5 img{
+    grid-column-start: span 1;
+    width: 50vw;
+}
+.div5_p1{
+    color: #4d50a2;
+    font-weight: 500;
+    font-size: 1.7vw;
+    
+}
+.div5_p2{
+    font-size: 1.4vw;
+    margin-bottom: 4vw ;
+    padding-right: 10vw;
+    line-height: 5vh;
+}
+
+#sticky{
+    text-decoration: none;
+    font-size: 6vh;
+    float: right;
+    margin: 0vh 5vh 5vh 0vh;
+    border: 1px solid #000;
+    border-radius: 50%;
+    padding: 2vh;
+    color: #ffffff;
+    background-color: #303079;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+#sticky :visited{
+    background-color: #303079;
+    color: #ffffff;
+
+}
+#sticky:hover{
+    background-color: #32373c;
+
+}
+
+

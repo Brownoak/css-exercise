@@ -47,6 +47,10 @@
     justify-content: center;
 
 }
+
+.links a:hover{
+    color: #4d50a2;
+}
 .links img{
     justify-content: center;
     height: 5vh;
@@ -216,7 +220,7 @@
     padding-left: 0;    
 }
 .col_footer li{
-    padding: 1.8vh 0vh;
+    padding: 0.75vw 0vw;
 
 }
 .col_footer a{
